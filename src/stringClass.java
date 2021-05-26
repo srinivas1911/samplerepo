@@ -17,6 +17,8 @@ public class stringClass {
 		}
 	}
 	
+	public static int test5 = 10;
+	
 	public void replace1() {
 		String s = "Srinivas";
 		String t = s.replace("i", " ");
